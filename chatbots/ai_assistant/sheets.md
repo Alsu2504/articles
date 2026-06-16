@@ -1,4 +1,4 @@
-# AI-ассистент с Salebot-таблицами
+# ИИ-ассистент с Salebot-таблицами
 
 С помощью функции, разработанной командой Salebot, чат-бот ИИ прекрасно понимает введенные в таблицу значения, а затем записывает их в системную переменную в настройках проекта.&#x20;
 
@@ -158,7 +158,7 @@ get\_records\_from\_table(table\_id, start\_row, count, start\_col, end\_col) - 
 
 Также установим дополнительные настройки:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-07-15 в 17.42.01.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-07-15 в 17.42.01.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Настройки AI-ассистента
 

@@ -232,7 +232,7 @@ get\_info\_for\_booking(slot\_interval, company\_id) - функция предн
 {% endhint %}
 
 {% hint style="info" %}
-Как настроить [бот с ИИ для онлайн-записи](/broken/pages/5Sy40v9I0JB04H9dIJ4V), рассказали в одноименной статье.
+Как настроить бот с [ИИ для онлайн-записи](online_booking.md), рассказали в одноименной статье.
 {% endhint %}
 
 ## Получение записи из таблицы
