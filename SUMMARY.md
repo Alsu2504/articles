@@ -416,7 +416,6 @@
   * [Tilda](integration/inye-servisy/tilda.md)
   * [Linkrr](integration/inye-servisy/linkrr.md)
   * [Vakas-Tools](integration/inye-servisy/vakas-tools.md)
-* [Партнер - онлайн-школа StepUp](integration/partner-onlain-shkola-stepup.md)
 
 ## Наши услуги
 
