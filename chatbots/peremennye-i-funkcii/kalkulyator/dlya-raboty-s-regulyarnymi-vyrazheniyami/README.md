@@ -1,7 +1,7 @@
 # Для работы с регулярными выражениями
 
 {% hint style="danger" %}
-Напоминаем, что время выполнения регулярного выражения - 5 секунд.
+Напоминаем, что время выполнения регулярного выражения не более 5 секунд.
 {% endhint %}
 
 **findall() | similar()**
@@ -14,17 +14,17 @@
 {% tab title="Примеры" %}
 Рассмотрим пример поиска строки по заданному регулярному выражению:
 
-<figure><img src="../../../.gitbook/assets/image (531).png" alt=""><figcaption><p>Пример использования findall()</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (531).png" alt=""><figcaption><p>Пример использования findall()</p></figcaption></figure>
 
 Результат:
 
-<figure><img src="../../../.gitbook/assets/image (532).png" alt=""><figcaption><p>Результат вычисления функции findall()</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (532).png" alt=""><figcaption><p>Результат вычисления функции findall()</p></figcaption></figure>
 
 Пример использования функции сравнения строк с учетом описок: &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (533).png" alt=""><figcaption><p>Простой пример применения similar()</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (533).png" alt=""><figcaption><p>Простой пример применения similar()</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (534).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (534).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Пример кода для копирования" %}

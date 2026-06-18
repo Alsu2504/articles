@@ -79,7 +79,7 @@ _Регулярные выражения_ — это условие, с помо
 </details>
 
 {% hint style="info" %}
-Подробнее о регулярных выражениях написано в статье "[Список полезных регулярных выражений](../chatbots/peremennye-i-funkcii/spisok-poleznykh-regulyarnykh-vyrazhenii.md)".&#x20;
+Подробнее о регулярных выражениях написано в статье "[Список полезных регулярных выражений](../chatbots/peremennye-i-funkcii/kalkulyator/dlya-raboty-s-regulyarnymi-vyrazheniyami/spisok-poleznykh-regulyarnykh-vyrazhenii.md)".&#x20;
 {% endhint %}
 
 ### Как узнать количество подписанных на бота?

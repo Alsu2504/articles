@@ -27,7 +27,7 @@
 **Регулярное выражение:** условие проверяет ответ пользователя в указанном вами регулярном выражении.
 
 {% hint style="info" %}
-Например, правильность ввода формата телефона, email, ввод только цифр и т.д. Подробнее о регулярных выражениях можно [**прочитать здесь**](../../peremennye-i-funkcii/spisok-poleznykh-regulyarnykh-vyrazhenii.md)
+Например, правильность ввода формата телефона, email, ввод только цифр и т.д. Подробнее о регулярных выражениях можно [**прочитать здесь**](../../peremennye-i-funkcii/kalkulyator/dlya-raboty-s-regulyarnymi-vyrazheniyami/spisok-poleznykh-regulyarnykh-vyrazhenii.md)
 {% endhint %}
 
 ### Расширенные настройки соединения(стрелки)

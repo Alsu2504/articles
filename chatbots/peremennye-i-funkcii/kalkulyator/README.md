@@ -36,7 +36,7 @@ description: >-
 * [математические ](matematicheskie-funkcii.md)
 * [Для работы с ссылками](dlya-raboty-so-ssylkami.md)
 * [для работы с таблицами Salebot ](dlya-raboty-s-salebot-tablicami.md)
-* [работы с регулярными выражениями ](dlya-raboty-s-regulyarnymi-vyrazheniyami.md)
+* [работы с регулярными выражениями ](dlya-raboty-s-regulyarnymi-vyrazheniyami/)
 * [работы со строками ](dlya-raboty-so-strokami.md)
 * [для работы с датами и временем](dlya-raboty-s-datami-i-vremenem.md)
 * [для работы с AI-ассистентом](../../ai_assistant/function.md)
