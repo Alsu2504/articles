@@ -6,11 +6,11 @@
 
 Предварительно сохраните все изменения, которые вы внесли на сайт. Для этого нажмите на "Сохранить":
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-11-06 в 18.03.56.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-11-06 в 18.03.56.png" alt=""><figcaption></figcaption></figure></div>
 
 В режиме редактирования вашего готовой страницы найдите кнопку "Экспорт страницы" и кликните на нее для сохранения файла:
 
-<figure><img src="../../.gitbook/assets/Запись экрана 2025-11-06 в 18.04.41.gif" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Запись экрана 2025-11-06 в 18.04.41.gif" alt=""><figcaption></figcaption></figure></div>
 
 По окончанию загрузки файла со страницей вы увидите сам файл в своих загрузках и уведомление об успешной загрузке файла.
 
@@ -20,11 +20,11 @@
 
 Далее выберите файл, который вы сохранили при экспорте страницы:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 15.22.50.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 15.22.50.png" alt=""><figcaption></figcaption></figure></div>
 
 После чего вы увидите уведомление о том, что файл успешно загружен, а также автоматически перейдете в режим редактирования импортированной страницы:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 15.24.18.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 15.24.18.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
 При необходимости внесите необходимые настройки и <mark style="color:blue;">**нажмите на кнопку "Сохранить".**</mark>

@@ -4,7 +4,7 @@
 
 В удобном конструкторе можно создавать многостраничные сайты и одностраничные лендинги в зависимости от вашего бизнеса и фантазий. Огромный выбор уже предустановленных секций поможет собрать сайт абсолютно любого вида и с любым количеством страниц.
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 09.33.14.png" alt=""><figcaption><p>Вид раздела "Сайты"</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 09.33.14.png" alt=""><figcaption><p>Вид раздела "Сайты"</p></figcaption></figure></div>
 
 {% hint style="warning" %}
 Обращаем внимание!
@@ -34,11 +34,11 @@
 
 Чтобы создать сайт, кликните по одноименной кнопке в правом углу экрана:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 09.34.21.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 09.34.21.png" alt=""><figcaption></figcaption></figure></div>
 
 При клике на кнопку дается возможность выбора типа сайта:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 10.25.51.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 10.25.51.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 а) Многостраничный сайт — сайт с несколькими связанными страницами, которые имеют общую концепцию и различный контент на каждой странице;
 
@@ -46,32 +46,32 @@
 
 в) Форма — сайт с формой сбора заявок с сайта. Создается одностраничный сайт с блоком "Форма":
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-04-25 в 12.38.28.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2024-04-25 в 12.38.28.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Подробнее о работе с блоком форма рассказали в статье "[Форма сбора заявок](/broken/pages/YOzidl4HYJaWmkPXnuYY)".
+Подробнее о работе с блоком форма рассказали в статье "[Секция форма](sekcii-bloki/sekciya-forma/)".
 {% endhint %}
 
 г) Опрос и квиз — лендинг с формой одностраничного или постраничного опроса на лендинге:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 09.52.03.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 09.52.03.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Подробнее о работе с блоком "[Квиз форма](/broken/pages/SLPSyrJDEiPAXVR2o8Zx)"
+Подробнее о работе с блоком "[Квиз](sekcii-bloki/sekciya-kviz.md)"
 {% endhint %}
 
 д) Подписная страница ВК — понадобится для того чтобы создать страницу подписки вконтакте с баннером и кнопкой подписки.
 
 {% hint style="info" %}
-Подробнее о работе с подписной страницей Вконтакте рассказали [здесь](/broken/pages/v6qBMb5jPTCxpykILRfx).
+Подробнее о работе с подписной страницей Вконтакте рассказали здесь.
 {% endhint %}
 
 Стоит отметить, что каждый сайт (страница) сайта состоит из блоков (секций):
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 11.24.23.png" alt=""><figcaption><p>В режиме редактирования страницы сайта можно <br>увидеть четкое разделение блоков между собой</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 11.24.23.png" alt=""><figcaption><p>В режиме редактирования страницы сайта можно <br>увидеть четкое разделение блоков между собой</p></figcaption></figure></div>
 
 {% hint style="success" %}
-[**Блоки (секции) сайта** ](/broken/pages/9VvYi1sRwNdMmQhsrk3a)— это логически разделенные структурные составляющие каждого сайта. К основным типам блоков можно отнести:
+[**Блоки (секции) сайта** ](sekcii-bloki/)— это логически разделенные структурные составляющие каждого сайта. К основным типам блоков можно отнести:
 
 1\) меню;&#x20;
 
@@ -98,19 +98,19 @@
 
 3\) О нас.&#x20;
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 10.35.01.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 10.35.01.png" alt=""><figcaption></figcaption></figure></div>
 
 При этом генерируется шапка сайта и футер (подвал), в котором можно указать необходимую информацию о вашей компании. И шапка, и футер отображаются на каждой странице сайта для того, чтобы не создавать одинаковые блоки на каждой отдельной странице.
 
-<figure><img src="../../.gitbook/assets/Запись экрана 2025-06-16 в 10.41.36 (online-video-cutter.com).gif" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Запись экрана 2025-06-16 в 10.41.36 (online-video-cutter.com).gif" alt=""><figcaption></figcaption></figure></div>
 
 Чтобы перейти в режим редактирования любой страницы сайта, кликните по строке с нужной страницей:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 11.21.56.png" alt="" width="375"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 11.21.56.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Дополнительно можно создать еще страницы сайта. Для этого необходимо кликнуть одноименную кнопку и выбрать шаблон страницы, либо форму, либо загрузить страницу из файла:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 11.16.16.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 11.16.16.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Загрузка страницы из файла поможет перенести страницы сайта из другого проекта.&#x20;
@@ -120,13 +120,13 @@
 
 При клике на "Создать шаблон" откроется форма с выбором любого (в том числе пустого) шаблона страницы сайта:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 11.19.41.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 11.19.41.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Лендинг (форма, опросы и квизы)
 
 При клике на создать "Лендинг" откроется форма с выбором шаблонов сайта:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 10.55.28.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 10.55.28.png" alt=""><figcaption></figcaption></figure></div>
 
 Вы можете выбрать любой понравившийся шаблон сайта, при этом в режиме редактирования изменить его различные настройки: шрифты, фон, изображения, добавить свои нужные блоки (секции) сайта и многое другое.
 
@@ -134,19 +134,19 @@
 
 В последующем при клике на плашку лендинга
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 13.56.46.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 13.56.46.png" alt=""><figcaption></figcaption></figure></div>
 
 вас будет переносить в раздел заявок, основной информации и настроек лендинга, при этом не будет отображаться множество страниц, как в многостраничном сайте, поскольку у лендинга страница только одна:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 14.01.11.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 14.01.11.png" alt=""><figcaption></figcaption></figure></div>
 
 Если вдруг вам понадобится добавить еще несколько страниц в лендинг, сделав его тем самым многостраничным сайтом, то перейдите в настройки сайта и поменяйте тип сайта на "Многостраничный сайт" и сохраните настройки:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 14.02.54.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 14.02.54.png" alt=""><figcaption></figcaption></figure></div>
 
 Аналогично отображается сайт в виде формы, опроса и квиза, однако при создании таких сайтов, вам не предлагается шаблон, поскольку в страницу сразу вставляется блок "Форма" или "Квиз" (в зависимости от выбранного типа сайта":
 
-<figure><img src="../../.gitbook/assets/Запись экрана 2025-06-16 в 14.07.43.gif" alt=""><figcaption><p>Создание типа сайта "Форма"</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Запись экрана 2025-06-16 в 14.07.43.gif" alt=""><figcaption><p>Создание типа сайта "Форма"</p></figcaption></figure></div>
 
 Как видно из примера, чтобы перейти в настройки сайта типа "Форма" (а также квизы, опрос), необходимо кликнуть на кнопку "Редактировать".
 

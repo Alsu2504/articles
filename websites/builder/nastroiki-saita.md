@@ -2,63 +2,63 @@
 
 Чтобы перейти в настройки сайта, нужно кликнуть на одноименную кнопку с шестеренкой в верхнем меню:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 11.45.41.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 11.45.41.png" alt=""><figcaption></figcaption></figure></div>
 
 Или кликнуть на шестеренку на плашке сайта в разделе "Сайты":
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 11.48.59.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 11.48.59.png" alt=""><figcaption></figcaption></figure></div>
 
 Тогда справа откроется меню с настройками
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 09.44.12.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 09.44.12.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Основные
 
 1. Название сайта
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 09.44.57.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 09.44.57.png" alt=""><figcaption></figcaption></figure></div>
 
 Отобразится на плашке с информацией о сайте.
 
 2. Название вкладки в браузере
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 10.51.18.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 10.51.18.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Отображается в названии вкладки браузера, в адресной строке и в результатах поисковых систем:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 10.50.58.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 10.50.58.png" alt=""><figcaption></figcaption></figure></div>
 
 4. Описание сайта
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 10.53.00.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 10.53.00.png" alt=""><figcaption></figcaption></figure></div>
 
 Отобразится на плашке с информацией о сайте.
 
 4. URL сайта - уникальный адрес сайта:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 10.54.28.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 10.54.28.png" alt=""><figcaption></figcaption></figure></div>
 
 При клике на адресную строку на сайте отображается следующим образом:&#x20;
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 10.55.28.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 10.55.28.png" alt=""><figcaption></figcaption></figure></div>
 
 5. Иконка сайта&#x20;
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 10.56.35.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 10.56.35.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 По умолчанию иконка сайта - уникальное лого Сейлбот. При необходимости можно изменить иконку, загрузив собственное изображение:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 10.58.44.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 10.58.44.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Иконка будет отображена во вкладке:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 14.37.26.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 14.37.26.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 #### Функции для многостраничных сайтов
 
 Если вы создаете многостраничные сайты, то сможете назначить определенные страницы главными на сайте, добавить какие-либо страницы в футер или шапку сайта.&#x20;
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 14.40.16.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 14.40.16.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Например, если вы создали страницу ошибки 404, то назначить ее отображение при ошибках на сайте можно в настройках.
 
@@ -70,7 +70,7 @@
 
 При создании сайта в конструкторе каждому сайту присваивается домен со значением <mark style="color:blue;">**sbsite.pro**</mark>. В случае, если вам необходим уникальный домен или у вас уже есть собственный домен, то его можно установить в настройках сайта во вкладке "Домен".&#x20;
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 11.57.41.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 11.57.41.png" alt=""><figcaption></figcaption></figure></div>
 
 #### Alias-запись
 
@@ -86,7 +86,7 @@ Alias-запись для сайта создается на ресурсе су
 
 Далее при установлении домена, в поле со значением передайте sbsite.pro
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 12.10.09.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 12.10.09.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
 При этом для домена, прикрепляемого к Salebot, **не должно быть AAAA и CNAME-записей**.&#x20;
@@ -94,7 +94,7 @@ Alias-запись для сайта создается на ресурсе су
 
 После создания ALIAS записи со значением sbsite.pro, перейдите в настройки сайта, где необходимо установить ваш домен:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 14.44.21.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-04-08 в 14.44.21.png" alt=""><figcaption></figcaption></figure></div>
 
 #### Как создать запись А
 
@@ -106,11 +106,11 @@ Alias-запись для сайта создается на ресурсе су
 
 Пример:
 
-<figure><img src="../../.gitbook/assets/домен.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/домен.png" alt=""><figcaption></figcaption></figure></div>
 
 Далее в значение передайте IP - 95.129.237.79
 
-<figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure></div>
 
 После установки записи A дождитесь вступления в силу записи. Далее домен уже можно подключать к Salebot.
 
@@ -136,13 +136,13 @@ SSL-сертификат создается автоматически.
 
 Если вы видите эту ошибку, то переподключите домен.
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (2).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Действия
 
 В настройках сайта во вкладке "Действия" существует возможность удалить сайт из вашего проекта:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 12.14.47.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 12.14.47.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 Важно!
@@ -170,21 +170,21 @@ SSL-сертификат создается автоматически.
 
 Во вкладке настроек "Аналитика" вы можете настроить счетчики для подсчета различных данных по пикселям, метрике и гугл аналитике:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 12.28.48.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 12.28.48.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-О работе с Аналитикой на сайте подробно рассказали в [одноименной статье.](/broken/pages/w0cHPiRYe4dhJVn1ReVn)
+О работе с Аналитикой на сайте подробно рассказали [в одноименной статье.](analitika-saita.md)
 {% endhint %}
 
 ## Шрифты и цвета
 
 В настройках сайта во вкладке "Шрифты и цвета" можно подобрать цвет фона всего сайта, включая всего его страницы (если сайт многостраничный), а также выбрать цвета контейнера с секциями.
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 12.31.26.png" alt="" width="375"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 12.31.26.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 По умолчанию фон и цвет контейнера — белый. Можно сделать однотонный из цветового круга (нажмите на значок Пипетка) или выбрать Градиент (выберите плитку с понравившимся градиентом):
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 15.24.42.png" alt="" width="375"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 15.24.42.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 В том числе применительно ко всему сайту существует возможность выбрать необходимый шрифт, после чего уже не нужно будет настраивать шрифт в каждой отдельной секции в случае, если вам нужен единый стиль сайта.&#x20;
 
@@ -192,5 +192,4 @@ SSL-сертификат создается автоматически.
 
 В случае, если вы не нашли необходимый шрифт в настройках, то можно загрузить свой собственный и при необходимости сделать его публичным (т.е. доступным для всех пользователей):
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 12.36.30.png" alt="" width="375"><figcaption></figcaption></figure>
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-16 в 12.36.30.png" alt="" width="375"><figcaption></figcaption></figure></div>
