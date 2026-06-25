@@ -2,7 +2,7 @@
 
 Услуги в Salebot - это один из разделов, относящийся к CRM-системе и позволяющий автоматизировать заполнение графика сотрудников онлайн-записями через бота.
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 18.22.16.png" alt="" width="375"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 18.22.16.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Для работы с онлайн-записью и чат-ботом с искусственным интеллектом нам понадобится:
 
@@ -32,19 +32,19 @@
 
 Для этого перед объявленной переменной пропишите project, далее название переменной service\_info (наименование переменной может быть любым), затем присвойте ей значение функции для чтения имеющихся услуг в филиале get\_info\_for\_booking
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 16.56.22.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 16.56.22.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Итого получаем: project.service\_info = get\_info\_for\_booking().
 
 Далее в поле "Сообщение пропишите" переменную (в нашем случае service\_info) в конструкции#{} и при необходимости добавьте какой-либо текст:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 16.59.13.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 16.59.13.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 С помощью строк в сообщении "Переменная обновлена #{service\_info}" мы наглядно увидим, что будет записано в переменную service\_info в настройках проекта.
 
 Далее перейдите в окно тестирования бота и запустите блок для кеширования переменной в настройки проекта:
 
-<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdECac4-qiPhEbyyxp598iXcNsZNJ33uWtM7Pj7I9nkPJDeMbAiq-yBFuzs_oIieKwfeOx3LiBTzw-_nmwLR4-ZMkcCj5DwUIbTefNdSpPyShTo-ee5IQOEtnRePBdgt_sU2eBfqJm0DO2l7ThffaXEKGs?key=g9-j53ENQsA_W1hDFrramA" alt="" width="375"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdECac4-qiPhEbyyxp598iXcNsZNJ33uWtM7Pj7I9nkPJDeMbAiq-yBFuzs_oIieKwfeOx3LiBTzw-_nmwLR4-ZMkcCj5DwUIbTefNdSpPyShTo-ee5IQOEtnRePBdgt_sU2eBfqJm0DO2l7ThffaXEKGs?key=g9-j53ENQsA_W1hDFrramA" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Если вы сделали все верно, вам придет ответ от бота в виде сообщения, которое вы прописали в данном блоке (в нашем примере "Переменная обновлена") и значения, лежащее в переменной. Значения, лежащие в переменной, — это свободные лоты (дата и время) для записи и услуги, которые были настроены вами в разделе "Услуги".
 
@@ -70,7 +70,7 @@
 
 2. project.service\_info = get\_info\_for\_booking() - для того, чтобы после формирования и внесения записи в CRM-систему, уже НЕсвободные слоты были удалены из значения переменной service\_info.&#x20;
 
-<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdG79FHAftyPBgsMqSROJXVm-yhnavQEQIYP19GvaCp7CALHwVa-KYn4LjkEtjryrSprn4DAvLtFzOasbShegmz1_ivq-sK97SdXIsU2qqyDxo-4q-HyB6hSHoMOGA4KrY12bWhRQBHfMGRdGecySbGs9Gy?key=g9-j53ENQsA_W1hDFrramA" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdG79FHAftyPBgsMqSROJXVm-yhnavQEQIYP19GvaCp7CALHwVa-KYn4LjkEtjryrSprn4DAvLtFzOasbShegmz1_ivq-sK97SdXIsU2qqyDxo-4q-HyB6hSHoMOGA4KrY12bWhRQBHfMGRdGecySbGs9Gy?key=g9-j53ENQsA_W1hDFrramA" alt=""><figcaption></figcaption></figure></div>
 
 В поле сообщения блока пропишите необходимый ответ бота после того, как клиент подберет услугу и время. &#x20;
 
@@ -95,7 +95,7 @@
 
 Далее переходим к настройкам бота, где пропишем его основные задачи:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-07-19 в 19.05.16.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2026-06-25 в 15.05.34.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Важное в настройках:&#x20;
 
@@ -103,7 +103,7 @@
 
 а) Не нужно прописывать, что должен делать бот - он итак прекрасно знает, что должен консультировать ваших клиентов по имеющимся услугам.&#x20;
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 17.23.34.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 17.23.34.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
 Благодаря заготовленным настройкам "Кнопки", ИИ формирует услуги в виде кнопок: теперь клиенту не придется самостоятельно прописывать название услуги, ему понадобится только нажать на соответствующую.&#x20;
@@ -111,41 +111,43 @@
 
 После того, как клиент нажмет на кнопку, ИИ проконсультирует его по стоимости и самой услуге:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 17.25.55.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 17.25.55.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 б) Далее бот самостоятельно будет показывать на выбранную клиентом услугу свободные дни и время, поскольку это также заложено в настройках бота.&#x20;
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 17.28.18.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 17.28.18.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-2. Обращаем внимание на команду “Напиши без изменения “start\_block\_from\_ai N” в настройках бота:
+2. Далее прописываем переменные, которые должен сохранить бот, чтобы передать данные для функции.
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-07-19 в 19.08.17.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2026-06-25 в 15.06.10.png" alt=""><figcaption></figcaption></figure></div>
 
-"Напиши без изменения “start\_block\_from\_ai <mark style="color:green;">**31972400**</mark>" - вместо цифр, отмеченных зеленым цветом, пропишите ID блока "Состояние", который создавали ранее в конструкторе воронок, - именно в нем содержится необходимая функция формирования записи в CRM-системе:
+3. Затем в командах выбираем блок, в котором прописана функция для записи:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 17.33.07.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 17.33.07.png" alt=""><figcaption></figcaption></figure></div>
 
-Скопируйте ID блока и установите его в команду 'Напиши без изменения "start\_block\_from\_ai N"', где вместо N подставьте ID.
+И в настройках ассистента выберите нужный вам блок и пропишите, когда нужно запустить команду:
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2026-06-25 в 15.08.15.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Остальные настройки ассистента
 
 В знания бота мы вкладываем закешированную переменную, которую использовали в блоке “Первостепенная проверка условия”:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 17.40.26.png" alt="" width="295"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 17.40.26.png" alt="" width="295"><figcaption></figcaption></figure></div>
 
 В знаниях бота переменную необходимо прописать переменную через конструкцию #{}.
 
 То есть, вы копируете переменную #{service\_info} из блока с условием в разделе "Конструктор" и вставляете #{service\_info} в поле "Знания бота" в разделе "AI-ассистент".
 
-<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdykE7gQ2XM2c6-yz2-LUlqca0SRJmhzbZv3pBA_yTwfIcyvUf5lHs9hu6uHJtGEJrdEm5dhtwQgcXG4pANv7T__jMzGj_LW-q5YH94YVwctIzzXJGuahm8TdrdMJw_BA-26N2IE8dHpCRxpqfIOaREUm57?key=g9-j53ENQsA_W1hDFrramA" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdykE7gQ2XM2c6-yz2-LUlqca0SRJmhzbZv3pBA_yTwfIcyvUf5lHs9hu6uHJtGEJrdEm5dhtwQgcXG4pANv7T__jMzGj_LW-q5YH94YVwctIzzXJGuahm8TdrdMJw_BA-26N2IE8dHpCRxpqfIOaREUm57?key=g9-j53ENQsA_W1hDFrramA" alt=""><figcaption></figcaption></figure></div>
 
-В поле “Формат передаваемых данных” - значение и ключ:
+В поле “Сохраняемые переменные” - укажите переменные (ключ) и какие данные нужно сохранить в этих переменных:
 
-<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfYM-FL2lzvHZTTG2au8HXjKhu-DKiE-ob_BVK0HL72y4tEzLZopOQWfULQO9q13vg2X41A1oE2knu5edGqmyDZ2GxNIu8bkZXc0BxNkGbQBonM1rDJT1Jtn-Wy4wKlUcnTrReNQw2cXQuS_PSyV08FvWoJ?key=g9-j53ENQsA_W1hDFrramA" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2026-06-25 в 16.15.01.png" alt=""><figcaption></figcaption></figure></div>
 
 Данные переменные после вызова блока передадутся в систему, а с помощью функции create\_booking\_by\_name(service\_name, date, date\_time) сформируется услуга в одноименном разделе "Услуги".
 
-<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXc7b9RH0xt2UbspfVFLr1jJYUlpQ_x9GG8piSFCZO-BG-MgFU52GsnjP8AgO3uWIP4B8fzV6egpuhEdNeStQ_Lmj5Ge9FwD94QPZXMbQkqz4AXXlZqE_Hdsog2mFKzAaaU-5edObqMNO0H5fKt0EBBtg85Z?key=g9-j53ENQsA_W1hDFrramA" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXc7b9RH0xt2UbspfVFLr1jJYUlpQ_x9GG8piSFCZO-BG-MgFU52GsnjP8AgO3uWIP4B8fzV6egpuhEdNeStQ_Lmj5Ge9FwD94QPZXMbQkqz4AXXlZqE_Hdsog2mFKzAaaU-5edObqMNO0H5fKt0EBBtg85Z?key=g9-j53ENQsA_W1hDFrramA" alt=""><figcaption></figcaption></figure></div>
 
 В этом же блоке Состояние диалога мы снова прописываем переменную serivce\_info, чтобы после записи клиента переменная со значением функции обновила данные о свободных окошках.&#x20;
 
@@ -157,7 +159,7 @@
 
 Теперь посмотрим в календаре в разделе “CRM”:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 17.59.09.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 17.59.09.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Запись также сформирована в календаре с учетом времени на услугу.
 
@@ -169,7 +171,7 @@
 
 В диалог с клиентом после записи будет приходить колбек — уведомление о записи — следующего вида:
 
-<figure><img src="../../.gitbook/assets/IMAGE 2025-05-30 175034.jpg" alt="" width="464"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/IMAGE 2025-05-30 175034.jpg" alt="" width="464"><figcaption></figcaption></figure></div>
 
 <mark style="color:orange;">**new\_order\_in\_calendar**</mark> - не изменяемая часть колбека&#x20;
 
@@ -187,7 +189,7 @@ _**`new_order_in_calendar: [489046159] Добавлена запись с 2025-0
 
 Настроить реакцию на колбек можно прописав значение в условии блока:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-08-12 в 11.46.40.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-08-12 в 11.46.40.png" alt=""><figcaption></figcaption></figure></div>
 
 В блоке можно прописать необходимое обратное сообщение клиенту.
 

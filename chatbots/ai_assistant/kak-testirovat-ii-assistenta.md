@@ -6,7 +6,7 @@
 
 Если необходимо протестировать бота в режиме тестового окна, но при этом чтобы бот не отрабатывался в реальных подключенных к проекту мессенджерах:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-09-03 в 09.55.43.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-09-03 в 09.55.43.png" alt=""><figcaption></figcaption></figure></div>
 
 В конструкторе условий выберите запуск в тестовой платформе:&#x20;
 
@@ -14,11 +14,11 @@
 б) нажмите на кнопку "Тестовое окно";\
 в) нажмите на кнопку "Добавить условие":
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-09-03 в 09.59.56.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-09-03 в 09.59.56.png" alt=""><figcaption></figcaption></figure></div>
 
 После чего условие для работы бота только в тестовом окне появится в поле "Условие для запуска":
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-09-03 в 10.04.13.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-09-03 в 10.04.13.png" alt=""><figcaption></figcaption></figure></div>
 
 Затем вы сможете протестировать бота в тестовом окне, не думая о том, что бот может некорректно сработать в мессенджере уже с вашими реальными клиентами.
 
@@ -32,19 +32,19 @@
 
 Если вам необходимо протестировать бота в реальном мессенджере, то также воспользуйтесь конструктором условий:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-09-03 в 10.11.07.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-09-03 в 10.11.07.png" alt=""><figcaption></figcaption></figure></div>
 
 Далее перейдите во вкладку "Выбор бота" и выберите подключенный мессенджер, в котором хотите протестировать работу ИИ-бота:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-09-03 в 10.11.35.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-09-03 в 10.11.35.png" alt=""><figcaption></figcaption></figure></div>
 
 Затем нажмите "Добавить":
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-09-03 в 10.14.58.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-09-03 в 10.14.58.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Тогда в поле "Условие для запуска" появится необходимое условие, с помощью которого AI-ассистент будет запускаться только в выбранном вами мессенджере:
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-09-03 в 10.16.35.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-09-03 в 10.16.35.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
 Таким образом вы сможете протестировать бота в реальном мессенджере.
