@@ -166,13 +166,11 @@ get\_records\_from\_table(table\_id, start\_row, count, start\_col, end\_col) - 
 
 1. Должность и инструкции для бота.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-07-15 в 17.44.13.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2026-06-25 в 16.31.50.png" alt=""><figcaption></figcaption></figure></div>
 
 2. Команда для вызова блока и передачи переменных в систему прописывается следующим образом:
 
-<Если клиент написал "Заказ составлен верно" или "Верно", то напиши "start\_block\_from\_ai N">, где вместо N прописывается ID блока с завершающим сообщением: блок Состояние передает данные в карточку клиента:
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-07-15 в 17.44.50.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2026-06-25 в 16.41.40.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Знания бота
 
@@ -180,17 +178,17 @@ get\_records\_from\_table(table\_id, start\_row, count, start\_col, end\_col) - 
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-07-15 в 17.32.05.png" alt=""><figcaption></figcaption></figure></div>
 
-Знания бота:&#x20;
+Знания бота:
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-07-15 в 17.45.47.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2026-06-25 в 16.45.37.png" alt=""><figcaption></figcaption></figure></div>
 
 Так бот будет брать информацию из переменной, лежащей в настройках проекта, и консультировать ваших клиентов по поводу имеющегося ассортимента.&#x20;
 
-### Формат данных
+### Сохраняемые переменные
 
 В формате передаваемых данных вы прописываете собственно сами собираемые данные (например, товар), далее прописывается фразу с "ключом" и присваиваете значение ключу:
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2025-07-15 в 17.46.33.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2026-06-25 в 16.55.33.png" alt=""><figcaption></figcaption></figure></div>
 
 Так переменные при вызове блока будут передаваться в карточку клиента: далее вы сможете работать с переменными, например, в конструкторе:
 
@@ -212,9 +210,7 @@ get\_records\_from\_table(table\_id, start\_row, count, start\_col, end\_col) - 
 
 На этом настройка AI-ассистента завершена.&#x20;
 
-Остальные параметры можно выставить по-своему усмотрению:
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-20 в 13.15.51.png" alt="" width="563"><figcaption></figcaption></figure></div>
+Остальные параметры можно выставить по-своему усмотрению.
 
 ## Тестирование бота
 
