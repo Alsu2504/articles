@@ -64,6 +64,7 @@
   * [Резервирование и восстановление](chatbots/builder/backup.md)
 * [ИИ-ассистент](chatbots/ai_assistant/README.md)
   * [Настройки ИИ-ассистента](chatbots/ai_assistant/settings.md)
+  * [Как тестировать ИИ-ассистента?](chatbots/ai_assistant/kak-testirovat-ii-assistenta.md)
   * [Чат-бот с ИИ для онлайн-записи](chatbots/ai_assistant/online_booking.md)
   * [ИИ-ассистент с Salebot-таблицами](chatbots/ai_assistant/sheets.md)
   * [ИИ-ассистент с google-таблицами](chatbots/ai_assistant/google_sheets.md)
